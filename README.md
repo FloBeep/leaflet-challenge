@@ -4,7 +4,7 @@ In this challenge, we have been tasked with developing a way to visualize United
 
 #### The Earthquake Visualization
 
-`<img src="https://raw.githubusercontent.com/FloBeep/leaflet-challenge/refs/heads/main/Images/Screenshot%202024-11-07%20at%204.46.16%E2%80%AFPM.png" width="600" title ="Earthquake World Map for the past week"/>`
+<a href="Earthquake Visualization"><img src="https://raw.githubusercontent.com/FloBeep/leaflet-challenge/refs/heads/main/Images/Screenshot%202024-11-07%20at%204.46.16%E2%80%AFPM.png" alt="Earthquake Visualization" border="0"></a>
 
 Using Leaflet and a dataset from the USGS, we created a map that plots all the earthquakes that happened last week based on their longitude and latitude.
 
